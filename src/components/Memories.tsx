@@ -27,7 +27,7 @@ const Memories = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 animate-in fade-in slide-in-from-bottom duration-1000 delay-300">
           <img
-            src="/hand-with-ring"
+            src="/hand-with-ring.jpg"
             alt="Valentine Memory 1"
             className="rounded-lg shadow-lg hover:scale-105 transition-transform"
           />
