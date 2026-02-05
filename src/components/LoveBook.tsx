@@ -52,7 +52,7 @@ const LoveBook = ({ onClose }: LoveBookProps) => {
     const downloadRef = useRef<HTMLDivElement>(null);
 
     const loveLines = [
-        "My Dearest Mirabelle,",
+        "My Dearest You,",
         "",
         "From the moment our paths crossed, my world became brighter,",
         "warmer, and filled with endless possibilities.",
@@ -201,7 +201,7 @@ const LoveBook = ({ onClose }: LoveBookProps) => {
                             opacity: 1,
                         }}
                     >
-                        With ❤️ from Davey
+                        With ❤️ from Jeremiah
                     </div>
                 </div>
             </div>
@@ -325,7 +325,7 @@ const LoveBook = ({ onClose }: LoveBookProps) => {
                                         lineHeight: "32px",
                                     }}
                                 >
-                                    With ❤️ from Davey
+                                    With ❤️ from Jeremiah
                                 </p>
                             </div>
                         </div>
