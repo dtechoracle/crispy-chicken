@@ -60,7 +60,7 @@ const LoveMessage = () => {
       </div>
       <p className="text-black text-center">
         {/* with ❤️ from <a href="https://x.com/dtechoracle">dtechoracle</a> */}
-        with ❤️ from Jeremiah.
+        with ❤️ from Davey.
       </p>
     </div>
   );
